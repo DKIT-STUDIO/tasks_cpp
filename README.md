@@ -4,6 +4,8 @@
 >  0     - Первая практическая
 > 
 >  1-27  - Вторая практическая
+>
+> three  - Третья практическая
 
 > [!NOTE]
 > # Компиляция
@@ -194,6 +196,15 @@
 >Напишите шаблонную функцию, которая сортирует массив с использованием алгоритма пузырька.
 
 ![image](https://github.com/DKIT-STUDIO/tasks_cpp/blob/main/screenshots/27.png)
+
+
+### Третья практическая
+## 1 - 11
+![image](https://github.com/user-attachments/assets/a945602e-d815-4f58-ad02-6e144b340f4d)
+
+## 12 - 23
+![image](https://github.com/user-attachments/assets/4c6986ef-fd9d-4567-998d-d897d27a1c07)
+
 
 
 ![image](https://github.com/user-attachments/assets/30c79b07-6cb4-449c-8e97-ea0c7306aba6)
