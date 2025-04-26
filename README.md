@@ -198,11 +198,11 @@
 ![image](https://github.com/DKIT-STUDIO/tasks_cpp/blob/main/screenshots/27.png)
 
 
-### Третья практическая
-## 1 - 11
+## Третья практическая
+### 1 - 11
 ![image](https://github.com/user-attachments/assets/a945602e-d815-4f58-ad02-6e144b340f4d)
 
-## 12 - 23
+### 12 - 23
 ![image](https://github.com/user-attachments/assets/4c6986ef-fd9d-4567-998d-d897d27a1c07)
 
 
